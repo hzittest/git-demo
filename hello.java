@@ -1,1 +1,4 @@
-hello  java
+public class hello
+{
+
+}
